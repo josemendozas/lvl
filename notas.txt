@@ -1,0 +1,2 @@
+Para abrir sin encabezado
+https://kohkfr36vcddx62egnc7mw.streamlit.app/?embed=true
